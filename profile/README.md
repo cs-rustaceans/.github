@@ -3,6 +3,8 @@ Project for Software Engineering class made by three hardcore friends: [@georger
 
 What it does is it keeps track of vacation destinations requested by employees in an enterprise setting, in form of a Web application with a React frontend and Rust backend.
 
+![image](https://github.com/cs-rustaceans/.github/assets/12964811/6e21fb54-e1d3-4540-aeaa-946070c6b72f)
+
 Made in 2023.
 
 ## Wanna try?
